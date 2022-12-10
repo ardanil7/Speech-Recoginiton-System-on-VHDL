@@ -2,7 +2,7 @@
 
 This is a comprehensive  project that implements a real time speech recognition on VHDL. And each submodules have different features that contributes speeach recognition system extensively.
 
-At first to implement this project, a Microphone amplifier has been designed with fourth order sallen key filters and the default mean of PCB is about 1.65 volt and max peak to peak voltage of PCB is about 3.3 v volt to fit this voltage for the ADC used in this projectç.
+At first to implement this project, a Microphone amplifier has been designed with fourth order sallen key filters and the default mean of PCB is about 1.65 volt and max peak to peak voltage of PCB is about 3.3 v volt to fit this voltage for the ADC used in this project.
 
 As an another external device, ADC121s101 has been selected, and the voltage range of this adc has been selected as 0 to 3.3 volt.
 
