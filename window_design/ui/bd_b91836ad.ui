@@ -1,0 +1,47 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"1.0",
+   "Default View_TopLeft":"-277,-145",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port BRAM_PORTA_0 -pg 1 -lvl 0 -x 0 -y -50 -defaultsOSRD
+preplace port BRAM_PORTA_1 -pg 1 -lvl 4 -x 740 -y -130 -defaultsOSRD -right
+preplace port BRAM_PORTB_0 -pg 1 -lvl 4 -x 740 -y 20 -defaultsOSRD -right
+preplace port port-id_clka_coef -pg 1 -lvl 0 -x 0 -y 80 -defaultsOSRD
+preplace port port-id_clka_window -pg 1 -lvl 4 -x 740 -y -170 -defaultsOSRD -right
+preplace port port-id_clkb_window -pg 1 -lvl 4 -x 740 -y 170 -defaultsOSRD -right
+preplace portBus adresb_coef -pg 1 -lvl 0 -x 0 -y -20 -defaultsOSRD
+preplace portBus doutb_coef -pg 1 -lvl 0 -x 0 -y 10 -defaultsOSRD -left
+preplace portBus adc_input -pg 1 -lvl 0 -x 0 -y 320 -defaultsOSRD
+preplace portBus coef_input -pg 1 -lvl 0 -x 0 -y 390 -defaultsOSRD
+preplace portBus multiplied_output -pg 1 -lvl 4 -x 740 -y 360 -defaultsOSRD
+preplace portBus adresa_window -pg 1 -lvl 4 -x 740 -y -80 -defaultsOSRD -right
+preplace portBus dina_window -pg 1 -lvl 4 -x 740 -y -10 -defaultsOSRD -right
+preplace portBus adresb_window -pg 1 -lvl 4 -x 740 -y 60 -defaultsOSRD -right
+preplace portBus doutb_window -pg 1 -lvl 4 -x 740 -y 130 -defaultsOSRD
+preplace portBus wea_window -pg 1 -lvl 4 -x 740 -y 90 -defaultsOSRD -right
+preplace inst blk_mem_gen_0 -pg 1 -lvl 1 -x 140 -y 0 -defaultsOSRD
+preplace inst mult_gen_0 -pg 1 -lvl 2 -x 340 -y 360 -defaultsOSRD
+preplace inst blk_mem_gen_1 -pg 1 -lvl 3 -x 590 -y 150 -defaultsOSRD
+preplace netloc A_0_1 1 0 2 20J 350 NJ
+preplace netloc B_0_1 1 0 2 NJ 390 240J
+preplace netloc addra_0_1 1 0 1 20 -20n
+preplace netloc addra_0_2 1 2 2 480J -30 720
+preplace netloc addrb_0_1 1 2 2 440J 0 700
+preplace netloc blk_mem_gen_0_douta 1 0 1 20 10n
+preplace netloc blk_mem_gen_1_doutb 1 2 2 490 290 700J
+preplace netloc clka_0_1 1 0 1 30 10n
+preplace netloc clka_0_2 1 2 2 430J -170 N
+preplace netloc clkb_0_1 1 2 2 480J 300 720
+preplace netloc dina_0_1 1 2 2 450J -20 720
+preplace netloc mult_gen_0_P 1 2 2 NJ 360 NJ
+preplace netloc wea_0_1 1 2 2 460J -10 710
+preplace netloc BRAM_PORTA_0_1 1 0 1 20 -50n
+preplace netloc BRAM_PORTA_1_1 1 2 2 470J -40 710
+preplace netloc BRAM_PORTB_0_1 1 2 2 490J 10 690
+levelinfo -pg 1 0 140 340 590 740
+pagesize -pg 1 -db -bbox -sgen -160 -310 940 560
+"
+}
+0

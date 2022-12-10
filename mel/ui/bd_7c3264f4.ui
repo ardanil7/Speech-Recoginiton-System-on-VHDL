@@ -1,0 +1,239 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.728889",
+   "Default View_TopLeft":"-461,-814",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port BRAM_PORTA_0 -pg 1 -lvl 0 -x -310 -y -1160 -defaultsOSRD
+preplace port BRAM_PORTA_1 -pg 1 -lvl 0 -x -310 -y -350 -defaultsOSRD
+preplace port BRAM_PORTA_2 -pg 1 -lvl 0 -x -310 -y -500 -defaultsOSRD
+preplace port BRAM_PORTA_3 -pg 1 -lvl 0 -x -310 -y -290 -defaultsOSRD
+preplace port BRAM_PORTA_4 -pg 1 -lvl 0 -x -310 -y -120 -defaultsOSRD
+preplace port BRAM_PORTA_5 -pg 1 -lvl 0 -x -310 -y 10 -defaultsOSRD
+preplace port BRAM_PORTA_6 -pg 1 -lvl 0 -x -310 -y 190 -defaultsOSRD
+preplace port BRAM_PORTA_7 -pg 1 -lvl 0 -x -310 -y -890 -defaultsOSRD
+preplace port BRAM_PORTA_8 -pg 1 -lvl 0 -x -310 -y -650 -defaultsOSRD
+preplace port BRAM_PORTA_9 -pg 1 -lvl 0 -x -310 -y 510 -defaultsOSRD
+preplace port BRAM_PORTA_10 -pg 1 -lvl 0 -x -310 -y 540 -defaultsOSRD
+preplace port BRAM_PORTA_11 -pg 1 -lvl 0 -x -310 -y 600 -defaultsOSRD
+preplace port BRAM_PORTA_12 -pg 1 -lvl 0 -x -310 -y 130 -defaultsOSRD
+preplace port BRAM_PORTA_13 -pg 1 -lvl 0 -x -310 -y 660 -defaultsOSRD
+preplace port BRAM_PORTB_0 -pg 1 -lvl 0 -x -310 -y 360 -defaultsOSRD
+preplace port port-id_clka_0 -pg 1 -lvl 0 -x -310 -y -1040 -defaultsOSRD
+preplace port port-id_clka_1 -pg 1 -lvl 0 -x -310 -y -680 -defaultsOSRD
+preplace port port-id_clka_2 -pg 1 -lvl 0 -x -310 -y -410 -defaultsOSRD
+preplace port port-id_clka_3 -pg 1 -lvl 0 -x -310 -y -180 -defaultsOSRD
+preplace port port-id_clka_4 -pg 1 -lvl 0 -x -310 -y -20 -defaultsOSRD
+preplace port port-id_clka_5 -pg 1 -lvl 0 -x -310 -y 100 -defaultsOSRD
+preplace port port-id_clka_6 -pg 1 -lvl 0 -x -310 -y 240 -defaultsOSRD
+preplace port port-id_clka_7 -pg 1 -lvl 0 -x -310 -y -800 -defaultsOSRD
+preplace port port-id_clka_8 -pg 1 -lvl 0 -x -310 -y -560 -defaultsOSRD
+preplace port port-id_clka_9 -pg 1 -lvl 0 -x -310 -y -380 -defaultsOSRD
+preplace port port-id_clka_10 -pg 1 -lvl 0 -x -310 -y -220 -defaultsOSRD
+preplace port port-id_clka_11 -pg 1 -lvl 0 -x -310 -y -60 -defaultsOSRD
+preplace port port-id_clka_12 -pg 1 -lvl 0 -x -310 -y 70 -defaultsOSRD
+preplace port port-id_clkb_0 -pg 1 -lvl 0 -x -310 -y 420 -defaultsOSRD
+preplace port port-id_clka_13 -pg 1 -lvl 0 -x -310 -y 270 -defaultsOSRD
+preplace portBus P_0 -pg 1 -lvl 5 -x 1520 -y -780 -defaultsOSRD
+preplace portBus A_0 -pg 1 -lvl 0 -x -310 -y -1400 -defaultsOSRD
+preplace portBus B_0 -pg 1 -lvl 0 -x -310 -y -1460 -defaultsOSRD
+preplace portBus A_1 -pg 1 -lvl 0 -x -310 -y -1250 -defaultsOSRD
+preplace portBus B_1 -pg 1 -lvl 0 -x -310 -y -920 -defaultsOSRD
+preplace portBus P_1 -pg 1 -lvl 5 -x 1520 -y -940 -defaultsOSRD
+preplace portBus A_2 -pg 1 -lvl 0 -x -310 -y -1370 -defaultsOSRD
+preplace portBus B_2 -pg 1 -lvl 0 -x -310 -y -1010 -defaultsOSRD
+preplace portBus P_2 -pg 1 -lvl 5 -x 1520 -y -640 -defaultsOSRD
+preplace portBus A_3 -pg 1 -lvl 0 -x -310 -y -1220 -defaultsOSRD
+preplace portBus B_3 -pg 1 -lvl 0 -x -310 -y -980 -defaultsOSRD
+preplace portBus P_3 -pg 1 -lvl 5 -x 1520 -y -480 -defaultsOSRD
+preplace portBus A_4 -pg 1 -lvl 0 -x -310 -y -1280 -defaultsOSRD
+preplace portBus B_4 -pg 1 -lvl 0 -x -310 -y -620 -defaultsOSRD
+preplace portBus P_4 -pg 1 -lvl 5 -x 1520 -y -230 -defaultsOSRD
+preplace portBus A_5 -pg 1 -lvl 0 -x -310 -y -1430 -defaultsOSRD
+preplace portBus B_5 -pg 1 -lvl 0 -x -310 -y -740 -defaultsOSRD
+preplace portBus P_5 -pg 1 -lvl 5 -x 1520 -y -80 -defaultsOSRD
+preplace portBus A_6 -pg 1 -lvl 0 -x -310 -y -1340 -defaultsOSRD
+preplace portBus B_6 -pg 1 -lvl 0 -x -310 -y -1310 -defaultsOSRD
+preplace portBus P_6 -pg 1 -lvl 5 -x 1520 -y -850 -defaultsOSRD
+preplace portBus A_7 -pg 1 -lvl 0 -x -310 -y -1490 -defaultsOSRD
+preplace portBus B_7 -pg 1 -lvl 0 -x -310 -y -950 -defaultsOSRD
+preplace portBus P_7 -pg 1 -lvl 5 -x 1520 -y -710 -defaultsOSRD
+preplace portBus A_8 -pg 1 -lvl 0 -x -310 -y -1520 -defaultsOSRD
+preplace portBus B_8 -pg 1 -lvl 0 -x -310 -y -860 -defaultsOSRD
+preplace portBus P_8 -pg 1 -lvl 5 -x 1520 -y -570 -defaultsOSRD
+preplace portBus A_9 -pg 1 -lvl 0 -x -310 -y -1190 -defaultsOSRD
+preplace portBus B_9 -pg 1 -lvl 0 -x -310 -y -440 -defaultsOSRD
+preplace portBus P_9 -pg 1 -lvl 5 -x 1520 -y -430 -defaultsOSRD
+preplace portBus A_10 -pg 1 -lvl 0 -x -310 -y -1130 -defaultsOSRD
+preplace portBus B_10 -pg 1 -lvl 0 -x -310 -y -530 -defaultsOSRD
+preplace portBus P_10 -pg 1 -lvl 5 -x 1520 -y -290 -defaultsOSRD
+preplace portBus A_11 -pg 1 -lvl 0 -x -310 -y -1100 -defaultsOSRD
+preplace portBus B_11 -pg 1 -lvl 0 -x -310 -y -150 -defaultsOSRD
+preplace portBus P_11 -pg 1 -lvl 5 -x 1520 -y -150 -defaultsOSRD
+preplace portBus A_12 -pg 1 -lvl 0 -x -310 -y -770 -defaultsOSRD
+preplace portBus B_12 -pg 1 -lvl 0 -x -310 -y -320 -defaultsOSRD
+preplace portBus P_12 -pg 1 -lvl 5 -x 1520 -y 0 -defaultsOSRD
+preplace portBus adresb_mel0 -pg 1 -lvl 0 -x -310 -y -1070 -defaultsOSRD
+preplace portBus doutb_mel0 -pg 1 -lvl 5 -x 1520 -y -970 -defaultsOSRD
+preplace portBus adresb_mel1 -pg 1 -lvl 0 -x -310 -y -710 -defaultsOSRD
+preplace portBus doutb_mel1 -pg 1 -lvl 5 -x 1520 -y -1000 -defaultsOSRD
+preplace portBus adresb_mel2 -pg 1 -lvl 0 -x -310 -y -470 -defaultsOSRD
+preplace portBus doutb_mel2 -pg 1 -lvl 5 -x 1520 -y -1030 -defaultsOSRD
+preplace portBus adresb_mel3 -pg 1 -lvl 0 -x -310 -y -250 -defaultsOSRD
+preplace portBus doutb_mel3 -pg 1 -lvl 5 -x 1520 -y -1060 -defaultsOSRD
+preplace portBus adresb_mel4 -pg 1 -lvl 0 -x -310 -y -90 -defaultsOSRD
+preplace portBus doutb_mel4 -pg 1 -lvl 5 -x 1520 -y -910 -defaultsOSRD
+preplace portBus adresb_mel5 -pg 1 -lvl 0 -x -310 -y 40 -defaultsOSRD
+preplace portBus doutb_mel5 -pg 1 -lvl 5 -x 1520 -y -880 -defaultsOSRD
+preplace portBus adresb_mel6 -pg 1 -lvl 0 -x -310 -y 160 -defaultsOSRD
+preplace portBus doutb_mel6 -pg 1 -lvl 5 -x 1520 -y 290 -defaultsOSRD
+preplace portBus adresb_mel7 -pg 1 -lvl 0 -x -310 -y -830 -defaultsOSRD
+preplace portBus doutb_mel7 -pg 1 -lvl 5 -x 1520 -y -680 -defaultsOSRD
+preplace portBus adresb_mel8 -pg 1 -lvl 0 -x -310 -y -590 -defaultsOSRD
+preplace portBus doutb_mel8 -pg 1 -lvl 5 -x 1520 -y -520 -defaultsOSRD
+preplace portBus adresb_mel9 -pg 1 -lvl 0 -x -310 -y 480 -defaultsOSRD
+preplace portBus doutb_mel9 -pg 1 -lvl 5 -x 1520 -y -360 -defaultsOSRD
+preplace portBus adresb_mel10 -pg 1 -lvl 0 -x -310 -y 570 -defaultsOSRD
+preplace portBus doutb_mel10 -pg 1 -lvl 5 -x 1520 -y -200 -defaultsOSRD
+preplace portBus adresb_mel11 -pg 1 -lvl 0 -x -310 -y 450 -defaultsOSRD
+preplace portBus doutb_mel11 -pg 1 -lvl 5 -x 1520 -y -40 -defaultsOSRD
+preplace portBus adresb_mel12 -pg 1 -lvl 0 -x -310 -y 630 -defaultsOSRD
+preplace portBus doutb_mel12 -pg 1 -lvl 5 -x 1520 -y 120 -defaultsOSRD
+preplace portBus wea_mel -pg 1 -lvl 0 -x -310 -y 720 -defaultsOSRD
+preplace portBus adresb_mel -pg 1 -lvl 0 -x -310 -y 390 -defaultsOSRD
+preplace portBus adresa_mel -pg 1 -lvl 0 -x -310 -y 330 -defaultsOSRD
+preplace portBus dina_mel -pg 1 -lvl 0 -x -310 -y 300 -defaultsOSRD
+preplace portBus doutb_mel -pg 1 -lvl 5 -x 1520 -y 400 -defaultsOSRD
+preplace inst blk_mem_gen_0 -pg 1 -lvl 1 -x 200 -y -700 -defaultsOSRD
+preplace inst blk_mem_gen_1 -pg 1 -lvl 1 -x 200 -y -540 -defaultsOSRD
+preplace inst blk_mem_gen_2 -pg 1 -lvl 1 -x 200 -y -380 -defaultsOSRD
+preplace inst blk_mem_gen_3 -pg 1 -lvl 1 -x 200 -y -220 -defaultsOSRD
+preplace inst blk_mem_gen_4 -pg 1 -lvl 1 -x 200 -y -60 -defaultsOSRD
+preplace inst blk_mem_gen_5 -pg 1 -lvl 1 -x 200 -y 100 -defaultsOSRD
+preplace inst blk_mem_gen_6 -pg 1 -lvl 1 -x 200 -y 260 -defaultsOSRD
+preplace inst blk_mem_gen_7 -pg 1 -lvl 2 -x 630 -y -710 -defaultsOSRD
+preplace inst blk_mem_gen_8 -pg 1 -lvl 2 -x 630 -y -550 -defaultsOSRD
+preplace inst blk_mem_gen_9 -pg 1 -lvl 2 -x 630 -y -390 -defaultsOSRD
+preplace inst blk_mem_gen_10 -pg 1 -lvl 2 -x 630 -y -230 -defaultsOSRD
+preplace inst blk_mem_gen_11 -pg 1 -lvl 2 -x 630 -y -70 -defaultsOSRD
+preplace inst blk_mem_gen_12 -pg 1 -lvl 2 -x 630 -y 90 -defaultsOSRD
+preplace inst blk_mem_gen_13 -pg 1 -lvl 2 -x 630 -y 320 -defaultsOSRD
+preplace inst mult_gen_0 -pg 1 -lvl 3 -x 1040 -y -850 -defaultsOSRD
+preplace inst mult_gen_1 -pg 1 -lvl 3 -x 1040 -y -710 -defaultsOSRD
+preplace inst mult_gen_2 -pg 1 -lvl 3 -x 1040 -y -570 -defaultsOSRD
+preplace inst mult_gen_3 -pg 1 -lvl 3 -x 1040 -y -430 -defaultsOSRD
+preplace inst mult_gen_4 -pg 1 -lvl 3 -x 1040 -y -290 -defaultsOSRD
+preplace inst mult_gen_5 -pg 1 -lvl 3 -x 1040 -y -150 -defaultsOSRD
+preplace inst mult_gen_6 -pg 1 -lvl 4 -x 1360 -y -850 -defaultsOSRD
+preplace inst mult_gen_7 -pg 1 -lvl 4 -x 1360 -y -710 -defaultsOSRD
+preplace inst mult_gen_8 -pg 1 -lvl 4 -x 1360 -y -570 -defaultsOSRD
+preplace inst mult_gen_9 -pg 1 -lvl 4 -x 1360 -y -430 -defaultsOSRD
+preplace inst mult_gen_10 -pg 1 -lvl 4 -x 1360 -y -290 -defaultsOSRD
+preplace inst mult_gen_11 -pg 1 -lvl 4 -x 1360 -y -150 -defaultsOSRD
+preplace inst mult_gen_12 -pg 1 -lvl 4 -x 1360 -y 0 -defaultsOSRD
+preplace netloc A_0_1 1 0 3 -40J -960 510J -860 NJ
+preplace netloc A_10_1 1 0 4 NJ -1130 NJ -1130 NJ -1130 1210J
+preplace netloc A_11_1 1 0 4 NJ -1100 NJ -1100 NJ -1100 1180J
+preplace netloc A_12_1 1 0 4 -280J -970 NJ -970 NJ -970 1150J
+preplace netloc A_1_1 1 0 3 NJ -1250 NJ -1250 890J
+preplace netloc A_2_1 1 0 3 NJ -1370 NJ -1370 870J
+preplace netloc A_3_1 1 0 3 NJ -1220 NJ -1220 820J
+preplace netloc A_4_1 1 0 3 NJ -1280 NJ -1280 830J
+preplace netloc A_5_1 1 0 3 NJ -1430 NJ -1430 840J
+preplace netloc A_6_1 1 0 4 NJ -1340 NJ -1340 NJ -1340 1270J
+preplace netloc A_7_1 1 0 4 NJ -1490 NJ -1490 NJ -1490 1260J
+preplace netloc A_8_1 1 0 4 NJ -1520 NJ -1520 NJ -1520 1250J
+preplace netloc A_9_1 1 0 4 NJ -1190 NJ -1190 NJ -1190 1230J
+preplace netloc B_0_1 1 0 3 NJ -1460 NJ -1460 900J
+preplace netloc B_10_1 1 0 4 -230J -870 NJ -870 790J -920 1170J
+preplace netloc B_11_1 1 0 4 -230J 500 NJ 500 850J -360 1140J
+preplace netloc B_12_1 1 0 4 -180J 520 NJ 520 890J 10 NJ
+preplace netloc B_1_1 1 0 3 -290J -940 NJ -940 730J
+preplace netloc B_2_1 1 0 3 NJ -1010 NJ -1010 850J
+preplace netloc B_3_1 1 0 3 -280J -990 NJ -990 800J
+preplace netloc B_4_1 1 0 3 -240J -850 NJ -850 750J
+preplace netloc B_5_1 1 0 3 -260J -930 NJ -930 760J
+preplace netloc B_6_1 1 0 4 NJ -1310 NJ -1310 NJ -1310 1240J
+preplace netloc B_7_1 1 0 4 NJ -950 NJ -950 740J -780 1190J
+preplace netloc B_8_1 1 0 4 -270J -880 NJ -880 810J -640 1190J
+preplace netloc B_9_1 1 0 4 -190J -860 490J -840 780J -500 1160J
+preplace netloc addra_0_1 1 0 1 -60 -1070n
+preplace netloc addra_0_2 1 0 2 -260J 370 350J
+preplace netloc addra_10_1 1 0 2 NJ 570 380J
+preplace netloc addra_11_1 1 0 2 NJ 450 370J
+preplace netloc addra_12_1 1 0 2 NJ 630 440J
+preplace netloc addra_1_1 1 0 1 -80 -710n
+preplace netloc addra_2_1 1 0 1 -70 -470n
+preplace netloc addra_3_1 1 0 1 -120 -250n
+preplace netloc addra_4_1 1 0 1 -120 -90n
+preplace netloc addra_5_1 1 0 1 -150 40n
+preplace netloc addra_6_1 1 0 1 -200 160n
+preplace netloc addra_7_1 1 0 2 NJ -830 490J
+preplace netloc addra_8_1 1 0 2 -220J -840 340J
+preplace netloc addra_9_1 1 0 2 NJ 480 330J
+preplace netloc addrb_0_1 1 0 2 NJ 390 430J
+preplace netloc blk_mem_gen_0_douta 1 0 5 20 -920 NJ -920 750J -950 1170J -970 NJ
+preplace netloc blk_mem_gen_10_douta 1 1 4 520 460 790J -220 NJ -220 1460J
+preplace netloc blk_mem_gen_11_douta 1 1 4 490 480 860J -70 NJ -70 1460J
+preplace netloc blk_mem_gen_12_douta 1 1 4 500 490 870J 120 NJ 120 NJ
+preplace netloc blk_mem_gen_13_doutb 1 1 4 530 470 880J 400 NJ 400 NJ
+preplace netloc blk_mem_gen_1_douta 1 0 5 0 -1000 NJ -1000 NJ -1000 NJ -1000 NJ
+preplace netloc blk_mem_gen_2_douta 1 0 5 -20 -1030 NJ -1030 NJ -1030 NJ -1030 NJ
+preplace netloc blk_mem_gen_3_douta 1 0 5 -30 -1060 NJ -1060 NJ -1060 NJ -1060 NJ
+preplace netloc blk_mem_gen_4_douta 1 0 5 10 -900 NJ -900 780J -930 NJ -930 1500J
+preplace netloc blk_mem_gen_5_douta 1 0 5 -10 -910 NJ -910 770J -940 NJ -940 1450J
+preplace netloc blk_mem_gen_6_douta 1 0 5 20 510 NJ 510 900J 290 NJ 290 NJ
+preplace netloc blk_mem_gen_7_douta 1 1 4 530 -960 NJ -960 NJ -960 1480J
+preplace netloc blk_mem_gen_8_douta 1 1 4 520 -980 NJ -980 NJ -980 1490J
+preplace netloc blk_mem_gen_9_douta 1 1 4 510 180 820J 70 NJ 70 1490J
+preplace netloc clka_0_1 1 0 1 -70 -1040n
+preplace netloc clka_10_1 1 0 2 -160J 380 310J
+preplace netloc clka_11_1 1 0 2 -190J 410 340J
+preplace netloc clka_12_1 1 0 2 -250J 420 390J
+preplace netloc clka_13_1 1 0 2 -270J 430 420J
+preplace netloc clka_1_1 1 0 1 -90 -680n
+preplace netloc clka_2_1 1 0 1 -80 -410n
+preplace netloc clka_3_1 1 0 1 -50 -210n
+preplace netloc clka_4_1 1 0 1 -30 -50n
+preplace netloc clka_5_1 1 0 1 -170 100n
+preplace netloc clka_6_1 1 0 1 -240 240n
+preplace netloc clka_7_1 1 0 2 -250J -820 330J
+preplace netloc clka_8_1 1 0 2 -130J -810 310J
+preplace netloc clka_9_1 1 0 2 -130J 400 300J
+preplace netloc clkb_0_1 1 0 2 -290J 440 460J
+preplace netloc dina_0_1 1 0 2 -280J 460 450J
+preplace netloc mult_gen_0_P 1 3 2 1190J -920 1470J
+preplace netloc mult_gen_10_P 1 4 1 N -290
+preplace netloc mult_gen_11_P 1 4 1 N -150
+preplace netloc mult_gen_12_P 1 4 1 N 0
+preplace netloc mult_gen_1_P 1 3 2 1200J -780 1460J
+preplace netloc mult_gen_2_P 1 3 2 1220J -640 NJ
+preplace netloc mult_gen_3_P 1 3 2 1270J -500 1470J
+preplace netloc mult_gen_4_P 1 3 2 1260J -360 1460J
+preplace netloc mult_gen_5_P 1 3 2 1130J -80 NJ
+preplace netloc mult_gen_6_P 1 4 1 N -850
+preplace netloc mult_gen_7_P 1 4 1 N -710
+preplace netloc mult_gen_8_P 1 4 1 N -570
+preplace netloc mult_gen_9_P 1 4 1 N -430
+preplace netloc wea_0_1 1 0 2 NJ 720 480J
+preplace netloc BRAM_PORTA_0_1 1 0 1 -50 -1160n
+preplace netloc BRAM_PORTA_10_1 1 0 2 NJ 540 360J
+preplace netloc BRAM_PORTA_11_1 1 0 2 NJ 600 410J
+preplace netloc BRAM_PORTA_12_1 1 0 2 -220J 350 320J
+preplace netloc BRAM_PORTA_13_1 1 0 2 NJ 660 470J
+preplace netloc BRAM_PORTA_1_1 1 0 1 -110 -570n
+preplace netloc BRAM_PORTA_2_1 1 0 1 -50 -500n
+preplace netloc BRAM_PORTA_3_1 1 0 1 -110 -290n
+preplace netloc BRAM_PORTA_4_1 1 0 1 -110 -120n
+preplace netloc BRAM_PORTA_5_1 1 0 1 -140 10n
+preplace netloc BRAM_PORTA_6_1 1 0 1 -210 190n
+preplace netloc BRAM_PORTA_7_1 1 0 2 NJ -890 500J
+preplace netloc BRAM_PORTA_8_1 1 0 2 -180J -800 320J
+preplace netloc BRAM_PORTA_9_1 1 0 2 -100J -790 300J
+preplace netloc BRAM_PORTB_0_1 1 0 2 NJ 360 400J
+levelinfo -pg 1 -310 200 630 1040 1360 1520
+pagesize -pg 1 -db -bbox -sgen -480 -1540 1680 740
+"
+}
+0
