@@ -9,7 +9,7 @@ As an another external device, ADC121s101 has been selected, and the voltage ran
 For the first part of the code, at first all data comes from PCB conveyed to A dual port ram created on ADC submodule with period of 64000 ns. By the way the default frequency of ADC is 12.5 MHz so for 64000 ns decimation method has been used.
 SNR ratio has been calculated as 65. 
 Then 16384 data has been divided into 63 frame each has 512 sample with 50% overlap. 
-Each frame has been hanned and hanning coefficient's been sent to FFT ip of VHLD to take DFT of the signal.  Signal was converted into signed numbers already.
+Each frame has been hanned and hanning coefficient's been sent to FFT ip of VHDL to take DFT of the signal.  Signal was converted into signed numbers already.
 For the next part  after the signal has been acquired in frequency domain, these signal has been prepared to be processed in Mel submodule. 
 In that submodule 13 mel filter banks has been created in 0 to 4 KHz and coefficient of Mel filter banks has been created on MATLAB. 
 After calculating band energies for each banks, discrete cosine transform of the signal been taken to take account of the magnitude of the signal given from PCB.
